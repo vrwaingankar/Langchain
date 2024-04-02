@@ -17,7 +17,7 @@ In these examples, we’re going to build a simpel chat UI and a chatbot QA app.
 ---
 
 ### Chat with your documents 🚀
-- [Ollama](https://ollama.ai/) and `mistral`as Large Language model
+- [Ollama](https://ollama.ai/) and `mistral`and `Gemma` as Large Language models.
 - [LangChain](https://python.langchain.com/en/latest/modules/models/llms/integrations/huggingface_hub.html) as a Framework for LLM
 - [Chainlit](https://docs.chainlit.io/) for deploying.
 
